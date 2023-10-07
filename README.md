@@ -1,2 +1,2 @@
-# DataScineceCompetiton(Stemfellowsip)
+# DataScienceCompetiton(Stemfellowsip)
  
