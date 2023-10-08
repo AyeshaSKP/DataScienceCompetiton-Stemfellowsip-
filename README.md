@@ -7,8 +7,12 @@ Data Cleaning: After checking Null values, the values have been replaced with me
 
 Data Visualization: The relationship between the variables has been explored through craeting violin lpot, heatmap, and pair plot.
 
-![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/02947a22-c175-4e27-a324-a916f2afc9de)
+![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/e9d59981-064f-4e4b-8cdf-a936d3c904ff)
 This fugure has been taken from the paper written by me and my team (BioinfoScience), where we have explored the relationship between the two most and least important features with and without breast cancer.
+
+![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/6a94d9c3-dc21-494d-a4e4-777d3498fc4b)
+The above figure has been taken from research paper related to this data science competiotion written by me and my team.
+
 
 Machine learning model:
 Five types of supervised machine learning models, such as deep learning with five layers, decision trees, support vector machine, naives bayes and logistic regression have been constructed.
