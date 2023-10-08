@@ -5,7 +5,7 @@ This project is composed of four parts: data collection, data cleaning, visualiz
 
 Data Cleaning: After checking Null values, the values have been replaced with mean values since the dataset is small and not categorical. Then the most and least two important features or dependent variables have been identified.
 
-Data Visualization: The relationship between the variables has been explored through craeting violin lpot, heatmap, and pair plot.
+Data Visualization: The relationship between the variables has been explored through craeting violin plot, heatmap, and pair plot.
 
 ![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/e9d59981-064f-4e4b-8cdf-a936d3c904ff)
 
