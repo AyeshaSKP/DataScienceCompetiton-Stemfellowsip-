@@ -8,10 +8,10 @@ Data Cleaning: After checking Null values, the values have been replaced with me
 Data Visualization: The relationship between the variables has been explored through craeting violin lpot, heatmap, and pair plot.
 
 ![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/02947a22-c175-4e27-a324-a916f2afc9de)
-This fugure has been taken from the paper written by me and my team(BioinfoScience) where we have exlpored the relation betweent two most and least importnat features with and withoutt breast cancer.
+This fugure has been taken from the paper written by me and my team (BioinfoScience), where we have explored the relationship between the two most and least important features with and without breast cancer.
 
-Machine Learning Model:
-Five types of superivsed machine learning model such as the deep learning with five layers, decison tree, support vector machine, naives bayes and logistic regression have been constructed.
+Machine learning model:
+Five types of supervised machine learning models, such as deep learning with five layers, decision trees, support vector machine, naives bayes and logistic regression have been constructed.
 Feature Engineering: Only in case of deep learning, feature engineering has been conducted binary hot encoding has been used to feed the model.
 
 Trainning and Evaluation: Five, six, eight and ten k fold cross validation have been used for k fold cross vlaidation.
@@ -20,7 +20,8 @@ Evaluation: ROC plot have been constructed and AUC score, sensitivity, specififi
 
 Total ten model have been created, trained, validated and evaluated where five for all feature and five for two least features.
 
-![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/12c9123d-07c6-4748-95f4-581e557d210b)
+![image](https://github.com/AyeshaSKP/DataScienceCompetiton-Stemfellowsip-/assets/41141945/bf4a4283-6c13-4a5d-8c83-c5188c34844a)
+
 This figure has been taken from the research paper written by BioinfoScience Team at Data Science Competition held by Stemfellowship.
 
 It has been found out that deep learning and SVM with all features and logistic regression with two features have the hightes and lowest AUC scores respectively.
